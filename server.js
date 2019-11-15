@@ -27,6 +27,10 @@ app.get('/', (req, res) => {
     res.render('index')
 })
 
+app.post('/', (req, res) => {
+    res.render('index')
+})
+
 app.put('/', (req, res) => {
     res.render('index')
 })
