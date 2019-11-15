@@ -1,0 +1,28 @@
+{
+  "name": "BKBurger",
+  "version": "1.0.0",
+  "description": "Order your burger here at https://bryantkrause.github.io/BKBurger/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bryantkrause/BKBurger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bryantkrause/BKBurger/issues"
+  },
+  "homepage": "https://github.com/Bryantkrause/BKBurger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-react-views": "^0.11.0",
+    "i": "^0.3.6",
+    "mysql2": "^2.0.0",
+    "npm": "^6.13.0",
+    "react": "^16.12.0"
+  }
+}
