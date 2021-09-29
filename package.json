@@ -20,7 +20,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "express-react-views": "^0.11.0",
-    "i": "^0.3.6",
+    "i": "^0.3.7",
     "mysql2": "^2.0.0",
     "npm": "^6.13.6",
     "react": "^16.12.0",
